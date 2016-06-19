@@ -1,0 +1,6 @@
+This query computes an iterative solution for Tc. To get Tc_next, run:
+
+(1/(((ideal gas constant) / (64 kcal / mol))*ln(55*((INSERT_TC_CURRENT_HERE + 273.15)kelvin)^2*(ideal gas constant)*(20*((cm)^2/sec)) / ((INSERT_COOLING_RATE_HERE*(kelvin)/(1000000 years))*(INSERT_DIFFUSION_SIZE_HERE*(micrometers))^2*64 kcal / mol)))) in celsius
+
+For example:
+(1/(((ideal gas constant) / (64 kcal / mol))*ln(55*((450 + 273.15)kelvin)^2*(ideal gas constant)*(20*((cm)^2/sec)) / ((70*(kelvin)/(1000000 years))*(180*(micrometers))^2*64 kcal / mol)))) in celsius
