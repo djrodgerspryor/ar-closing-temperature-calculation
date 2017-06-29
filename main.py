@@ -1,5 +1,5 @@
 from plotting import plot_1d, plot_2d
-from math import log
+from math import log, fabs
 import numpy as np
 import scipy
 
@@ -8,6 +8,34 @@ COOLING_RATE_POINT_ESTIMATE = 70 # °C/Ma
 
 DOMAIN_SIZE_RANGE = 120, 250 # µM
 COOLING_RATE_RANGE = 35, 150 # (°C difference)/Ma
+
+
+def converge(initial, function, error_threshold_fraction=0.0001, max_iterations=1000, log=False):
+    current = initial
+
+    i = 0
+    while True:
+        i += 1
+
+        previous = current
+        current = function(current)
+
+        error_fraction = fabs(current - previous) / ((fabs(current) + fabs(previous)) / 2)
+
+        # If we've converged
+        if error_fraction < error_threshold_fraction:
+            # Then we can stop
+            break
+
+        # Should only happen if the function is accidentally non-convergent
+        if i >= max_iterations:
+            raise Exception("Unable to converge after %d iterations" % (i,))
+
+    if log:
+        # Log how long convergence took
+        print("Converged to within {0:.4e}% in {1:d} iterations".format(error_fraction * 100, i))
+
+    return current
 
 
 # Convert degrees Kelvin to degrees Centigrade
@@ -24,14 +52,14 @@ def Tc_next(Tc_prev, a, dT_on_dt_at_Tc):
 #   dT_on_dt_at_Tc   : cooling rate in °C/Ma
 #
 # Returns closing temperature in kelvin
-def Tc(a, dT_on_dt_at_Tc, Tc_init=450, iterations=10):
-    Tc_current = Tc_init
+def Tc(a, dT_on_dt_at_Tc, Tc_init=450):
+    return converge(
+        Tc_init,
+        lambda Tc_prev: Tc_next(Tc_prev, a, dT_on_dt_at_Tc),
 
-    for i in range(iterations):
-        Tc_current = Tc_next(Tc_current, a, dT_on_dt_at_Tc)
-
-    return Tc_current
-
+        # Set this to True to see how long it takes to converge
+        log=False,
+    )
 
 
 ### Point Estimate ###
