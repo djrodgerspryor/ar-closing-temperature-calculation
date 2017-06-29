@@ -1,0 +1,2274 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"exclusive"
+			],
+			[
+				"depen",
+				"DependencyDetection"
+			],
+			[
+				"en",
+				"ensureFetched"
+			],
+			[
+				"work",
+				"worksheetItemId"
+			],
+			[
+				"new",
+				"newCount"
+			],
+			[
+				"comp",
+				"compilationUuid"
+			],
+			[
+				"conte",
+				"context"
+			],
+			[
+				"__debouncedUpdate",
+				"__undebounceedUpdateScoreboard"
+			],
+			[
+				"obser",
+				"observers"
+			],
+			[
+				"_norma",
+				"_normalizedKeyData"
+			],
+			[
+				"norm",
+				"_normalizeField"
+			],
+			[
+				"normal",
+				"_normalizedKeyData"
+			],
+			[
+				"trh",
+				"throwMissingParameterError"
+			],
+			[
+				"partial",
+				"partialKeyData"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"make",
+				"makeKey"
+			],
+			[
+				"observ",
+				"observedKey"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"is",
+				"isDisjoint"
+			],
+			[
+				"known",
+				"knownData"
+			],
+			[
+				"know",
+				"knownData"
+			],
+			[
+				"partia",
+				"partialKeyData"
+			],
+			[
+				"thro",
+				"throwMissingParameterError"
+			],
+			[
+				"thr",
+				"throwMissingParameterError"
+			],
+			[
+				"inclu",
+				"includeRoles"
+			],
+			[
+				"trans",
+				"transition-speed"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"label",
+				"label-top-padding"
+			],
+			[
+				"compi",
+				"compilation_uuid"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"compil",
+				"compiled_activities"
+			],
+			[
+				"comi",
+				"compilation_uuids"
+			],
+			[
+				"LEss",
+				"LessonItem"
+			],
+			[
+				"acti",
+				"activity"
+			],
+			[
+				"Pr",
+				"PropTypes"
+			],
+			[
+				"Pro",
+				"propTypes"
+			],
+			[
+				"activity",
+				"activityType"
+			],
+			[
+				"prop",
+				"propTypes"
+			],
+			[
+				"Le",
+				"LessonItem"
+			],
+			[
+				"act",
+				"activity_type_string"
+			],
+			[
+				"Acti",
+				"ActivityType"
+			],
+			[
+				"feat",
+				"featureName"
+			],
+			[
+				"lessonIt",
+				"lessonItemRoleStore"
+			],
+			[
+				"less",
+				"lessonItem"
+			],
+			[
+				"lesson",
+				"lessonItem"
+			],
+			[
+				"may",
+				"maybeData"
+			],
+			[
+				"ensure",
+				"ensureFetched"
+			],
+			[
+				"inva",
+				"invalidate"
+			],
+			[
+				"ac",
+				"activity-one"
+			],
+			[
+				"ti",
+				"tick"
+			],
+			[
+				"let",
+				"letter"
+			],
+			[
+				"data",
+				"dataHasBeenFetchedFor"
+			],
+			[
+				"stilefor",
+				"StileForSchoolsUpsell"
+			],
+			[
+				"instituti",
+				"institutionId"
+			],
+			[
+				"def",
+				"defaultEndpoint"
+			],
+			[
+				"Ifr",
+				"IframeVideoPlayer"
+			],
+			[
+				"student",
+				"student_demo"
+			],
+			[
+				"each",
+				"each_with_index"
+			],
+			[
+				"fiel",
+				"field_schema"
+			],
+			[
+				"use",
+				"use_secondary"
+			],
+			[
+				"single",
+				"single_value"
+			],
+			[
+				"subjec",
+				"subject"
+			],
+			[
+				"ins",
+				"institutionFluxStore"
+			],
+			[
+				"institutionDe",
+				"institutionUserDeletedArchived"
+			],
+			[
+				"inst",
+				"institutionArchived"
+			],
+			[
+				"keyD",
+				"keyData"
+			],
+			[
+				"parent",
+				"parentStore"
+			],
+			[
+				"cusomt",
+				"_customGet"
+			],
+			[
+				"insti",
+				"institutionId"
+			],
+			[
+				"subject",
+				"subjectId"
+			],
+			[
+				"paren",
+				"parentStore"
+			],
+			[
+				"find",
+				"find_clauses"
+			],
+			[
+				"compiled",
+				"compiled_activity_repository"
+			],
+			[
+				"filt",
+				"filter_by_institution_id"
+			],
+			[
+				"iso",
+				"isoString"
+			],
+			[
+				"unbo",
+				"unboxedValue"
+			],
+			[
+				"to",
+				"toJSON"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"institution",
+				"institution_id"
+			],
+			[
+				"de",
+				"defaultValue"
+			],
+			[
+				"cont",
+				"containing_subject_ids"
+			],
+			[
+				"norma",
+				"normalise_title"
+			],
+			[
+				"chec",
+				"checkout_status"
+			],
+			[
+				"instant",
+				"instantiation_record_uuid"
+			],
+			[
+				"check",
+				"checkout_record"
+			],
+			[
+				"checkout_rec",
+				"checkout_record_repository"
+			],
+			[
+				"ver",
+				"version_uuid"
+			],
+			[
+				"Reso",
+				"resolved_compilation"
+			],
+			[
+				"Not",
+				"NotFound"
+			],
+			[
+				"GetPoss",
+				"GetPossiblyUnreleasedVersionResponse"
+			],
+			[
+				"obj",
+				"object_class"
+			],
+			[
+				"In",
+				"IndifferentAccessHash"
+			],
+			[
+				"dee",
+				"deep_to_indifferent_access"
+			],
+			[
+				"subj",
+				"subjectId"
+			],
+			[
+				"ensu",
+				"ensureData"
+			],
+			[
+				"get",
+				"getIsEnabled"
+			],
+			[
+				"has",
+				"hasData"
+			],
+			[
+				"getId",
+				"getIsEnabled"
+			],
+			[
+				"up",
+				"uploadFileError"
+			],
+			[
+				"with",
+				"with_allowed_errors"
+			],
+			[
+				"read_",
+				"read_lesson_item"
+			],
+			[
+				"perInst",
+				"perInstitution"
+			],
+			[
+				"mul",
+				"multi_update"
+			],
+			[
+				"meth",
+				"method_name"
+			],
+			[
+				"com",
+				"compilationUuid"
+			],
+			[
+				"Sub",
+				"SubMenu"
+			],
+			[
+				"licen",
+				"licenseTermsId"
+			],
+			[
+				"licens",
+				"licenseTerms"
+			],
+			[
+				"depe",
+				"dependencyStates"
+			],
+			[
+				"lice",
+				"licenses"
+			],
+			[
+				"rg",
+				"rgbaToJson"
+			],
+			[
+				"validate",
+				"ValidateResponse"
+			],
+			[
+				"bill",
+				"billingCustomerUuid"
+			],
+			[
+				"err",
+				"error_code"
+			],
+			[
+				"vim",
+				"vimeo_response_body"
+			],
+			[
+				"respon",
+				"respond_to"
+			],
+			[
+				"amqp",
+				"amqp_client"
+			],
+			[
+				"princ",
+				"principalName"
+			],
+			[
+				"am",
+				"amqp_client"
+			],
+			[
+				"Ser",
+				"ServiceUnavailable"
+			],
+			[
+				"vic",
+				"victims_for_this_round"
+			],
+			[
+				"victi",
+				"victim"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"Vali",
+				"ValidationError"
+			],
+			[
+				"bi",
+				"billing_customer_uuid"
+			],
+			[
+				"LIB",
+				"LIB2_ROOT_COMPILATION_UUID"
+			],
+			[
+				"email",
+				"email_address"
+			],
+			[
+				"teach",
+				"teacher_license"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 4618,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"last_filter": "blm",
+		"selected_items":
+		[
+			[
+				"blm",
+				"Git: Blame"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"chck",
+				"Git: Checkout Current File"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"log",
+				"Git: Log Current File"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"blme",
+				"Git: Blame"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"lm",
+				"LaTeXing: Toggle Offline Mode"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"wrap",
+				"Wrap Plus: Wrap Lines"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lo",
+				"Git: Log Current File"
+			],
+			[
+				"pre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"chc",
+				"Git: Checkout Current File"
+			],
+			[
+				"a",
+				"Git: Add Current File"
+			],
+			[
+				"blma",
+				"Git: Blame"
+			],
+			[
+				"blmae",
+				"Git: Blame"
+			],
+			[
+				"format",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"Blm",
+				"Git: Blame"
+			],
+			[
+				"chckc",
+				"Git: Checkout Current File"
+			],
+			[
+				"balme",
+				"Git: Blame"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"chkc",
+				"Git: Checkout Current File"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"bl",
+				"Git: Blame"
+			],
+			[
+				"hcck",
+				"Git: Checkout Current File"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"ad",
+				"Git: Add Current File"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"hckc",
+				"Git: Checkout Current File"
+			],
+			[
+				"show",
+				"Git: Show Tags"
+			],
+			[
+				"Upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"ch",
+				"Git: Checkout Current File"
+			],
+			[
+				"b",
+				"Git: Blame"
+			],
+			[
+				"check",
+				"Git: Checkout Current File"
+			],
+			[
+				"synmarkdown",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"lof",
+				"Git: Log Current File"
+			],
+			[
+				"chcl",
+				"Git: Checkout Current File"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"syntax ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"chk",
+				"Git: Checkout Current File"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"type form",
+				"TypeScript: Format Line"
+			],
+			[
+				"ty",
+				"TypeScript: Navigate To Symbol"
+			],
+			[
+				"chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"proto",
+				"Set Syntax: Protocol Buffer"
+			],
+			[
+				"hash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"yml",
+				"Set Syntax: YAML"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"achck",
+				"LaTeXing: Check System"
+			],
+			[
+				"dif",
+				"Git: Diff Current File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"gutt",
+				"GitGutter: Show Diff Popup"
+			],
+			[
+				"tr",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"regex",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"val",
+				"Pretty JSON: Validate"
+			],
+			[
+				"va",
+				"Pretty JSON: Validate"
+			],
+			[
+				"wr",
+				"Wrap Plus: Wrap Lines"
+			],
+			[
+				"form",
+				"TypeScript: Paste And Format"
+			],
+			[
+				"paste an",
+				"TypeScript: Paste And Format"
+			],
+			[
+				"forma",
+				"TypeScript: Paste And Format"
+			],
+			[
+				"pretty json",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"reset",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"chek",
+				"Git: Checkout Current File"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"nlm",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"dfiff",
+				"Git: Diff Current File"
+			],
+			[
+				"valida",
+				"Pretty JSON: Validate"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"ya",
+				"Set Syntax: YAML"
+			],
+			[
+				"yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"babl",
+				"Babel Transform"
+			],
+			[
+				"pro",
+				"Set Syntax: Protocol Buffer"
+			],
+			[
+				"prot",
+				"Set Syntax: Protocol Buffer"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ceh",
+				"Git: Checkout Current File"
+			],
+			[
+				"cehck",
+				"Git: Checkout Current File"
+			],
+			[
+				"cehkc",
+				"Git: Checkout Current File"
+			],
+			[
+				"bm",
+				"Git: Blame"
+			],
+			[
+				"cehc",
+				"Git: Checkout Current File"
+			],
+			[
+				"syntax mar",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"chcek",
+				"Git: Checkout Current File"
+			],
+			[
+				"heck",
+				"Git: Checkout Current File"
+			],
+			[
+				"check\t",
+				"Git: Checkout Current File"
+			],
+			[
+				"checl",
+				"Git: Checkout Current File"
+			],
+			[
+				"cehcl",
+				"Git: Checkout Current File"
+			],
+			[
+				"che",
+				"Git: Checkout Current File"
+			],
+			[
+				"df",
+				"Git: Diff Current File"
+			],
+			[
+				"ceck",
+				"Git: Checkout Current File"
+			],
+			[
+				"set synt proto",
+				"Set Syntax: Protocol Buffer"
+			],
+			[
+				"package cont",
+				"Package Control: List Packages"
+			],
+			[
+				"package con",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"cehcke",
+				"Git: Checkout Current File"
+			],
+			[
+				"syntax ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"docker",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"echec",
+				"LaTeXing: Check System"
+			],
+			[
+				"addcu",
+				"Git: Add Current File"
+			],
+			[
+				"add curr",
+				"Git: Add Current File"
+			],
+			[
+				"syntax bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"add cur",
+				"Git: Add Current File"
+			],
+			[
+				"synt ruby",
+				"Set Syntax: Ruby"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/drp/ar-closing-temperature-calculation"
+	],
+	"file_history":
+	[
+		"/Users/drp/dev-environment/web-client/app/uiKit/bubbleHeader/BubbleHeaderTitle.module.js",
+		"/Users/drp/dev-environment/web-client/app/librarySearch/components/searchResult.module.js",
+		"/Users/drp/dev-environment/web-client/app/library2Compilation/components/AcquisitionControl.module.js",
+		"/Users/drp/dev-environment/backend/email-service/lib/email_service/long_lived_smtp.rb",
+		"/Users/drp/dev-environment/wiris/localgems/lib-stile-ruby/lib/stile/mongo.rb",
+		"/Users/drp/dev-environment/operations/docker/dashboard/localgems/lib-stile-ruby/lib/stile/mongo.rb",
+		"/Users/drp/dev-environment/backend/user-data-service/lib/user_data_service.rb",
+		"/Users/drp/dev-environment/backend/video-service/lib/video_service.rb",
+		"/Users/drp/dev-environment/backend/upload-service/lib/upload_service.rb",
+		"/Users/drp/dev-environment/backend/task-service/lib/task_service.rb",
+		"/Users/drp/dev-environment/backend/statistics-service/lib/statistics_service.rb",
+		"/Users/drp/dev-environment/backend/poll-service/lib/poll_service.rb",
+		"/Users/drp/dev-environment/backend/plan-service/lib/plan_service.rb",
+		"/Users/drp/dev-environment/backend/outbound-communication-service/lib/outbound_communication_service.rb",
+		"/Users/drp/dev-environment/backend/orc-service/lib/orc_service.rb",
+		"/Users/drp/dev-environment/backend/onboarding-service/lib/onboarding_service.rb",
+		"/Users/drp/dev-environment/backend/notification-service/lib/notification_service.rb",
+		"/Users/drp/dev-environment/backend/library2-service/lib/library2_service.rb",
+		"/Users/drp/dev-environment/backend/library-service/lib/library_service.rb",
+		"/Users/drp/dev-environment/backend/institution-service/lib/institution_service.rb",
+		"/Users/drp/dev-environment/backend/client-event-service/lib/client_event_service.rb",
+		"/Users/drp/dev-environment/backend/auth-service/lib/auth_service.rb",
+		"/Users/drp/dev-environment/backend/chat-service/lib/chat_service.rb",
+		"/Users/drp/dev-environment/backend/assessment-service/lib/assessment_service.rb",
+		"/Users/drp/dev-environment/backend/analytics-service/lib/analytics_service.rb",
+		"/Users/drp/dev-environment/backend/acl-service/lib/acl_service.rb",
+		"/Users/drp/dev-environment/backend/encoding-service/lib/encoding_service/office_file_processor.rb",
+		"/Users/drp/dev-environment/backend/payment-service/lib/payment_service/stripe_error_handler.rb",
+		"/Users/drp/dev-environment/web-client/app/library2Admin/components/UnreviewedCompilationsController.module.js",
+		"/Users/drp/dev-environment/web-client/app/activity/components/FakeSubmissionButtonForLibraryPreviewController.module.js",
+		"/Users/drp/dev-environment/backend/institution-service/lib/institution_service/apis/terraformer_simulation_mob_scoreboard_api.rb",
+		"/Users/drp/dev-environment/backend/outbound-communication-service/spec/outbound_communication_service/apis/outbound_message_api_spec.rb",
+		"/Users/drp/dev-environment/backend/email2-service/spec/email2_service/apis/mailing_list_api_spec.rb",
+		"/Users/drp/dev-environment/web-client/app/header/css/shared.scss",
+		"/Users/drp/dev-environment/web-client/app/header/css/header.scss",
+		"/Users/drp/.stileconfig_user",
+		"/Users/drp/dev-environment/backend/lib-stile-ruby/lib/stile/amqp.rb",
+		"/Users/drp/dev-environment/checkout.sh",
+		"/Users/drp/dev-environment/backend/institution-service/lib/institution_service/apis/work_item_api.rb",
+		"/Users/drp/dev-environment/web-client/app/superLogin/components/LoginForm.tsx",
+		"/Users/drp/dev-environment/web-client/app/superLogin/components/SuperLogin.tsx",
+		"/Users/drp/dev-environment/web-client/app/activity/views/activityControlsView.module.js",
+		"/Users/drp/dev-environment/web-client/app/activityStudentControls/i18n/en/activityStudentControls.json",
+		"/Users/drp/dev-environment/web-client/app/activity/components/activityTypeEditForm.module.js",
+		"/Users/drp/dev-environment/backend/institution-service/lib/institution_service/apis/lesson_item_pb_api.rb",
+		"/Users/drp/dev-environment/backend/analytics-service/lib/analytics_service/models/lesson_item.rb",
+		"/Users/drp/dev-environment/web-client/app/planSubscription/components/planChangeOrchestrator.module.js",
+		"/Users/drp/dev-environment/backend/auth-service/lib/auth_service/rpc.rb",
+		"/Users/drp/dev-environment/backend/institution-service/migrations/db/2015102001-institution_defaultMultiReleaseSubjects.sql",
+		"/Users/drp/dev-environment/web-client/app/pageRouter/setPageState.module.js",
+		"/Users/drp/dev-environment/web-client/app/fluxCondenser/libs/controllerComponent.module.js",
+		"/Users/drp/dev-environment/operations/cfn/shared/webclient_features.plus",
+		"/Users/drp/dev-environment/documentation/specifications/onboarding/onboarding_tour_prd.md",
+		"/Users/drp/dev-environment/web-client/app/institution/stores/institutionRoleStore.module.js",
+		"/Users/drp/dev-environment/web-client/app/internalAdmin/stores/OrcMessageStore.module.js",
+		"/Users/drp/dev-environment/web-client/app/library2Compilation/stores/compilationVersionStore.module.js",
+		"/Users/drp/dev-environment/web-client/app/uploader/examples/example.html.erb",
+		"/Users/drp/dev-environment/web-client/app/fluxCondenser/libs/store.module.js",
+		"/Users/drp/dev-environment/web-client/app/fluxCondenser/libs/storeIndex.module.js",
+		"/Users/drp/dev-environment/web-client/app/sendToStile/models/sendToStileFileModel.module.js",
+		"/Users/drp/dev-environment/web-client/app/core/libs/mixPanel.module.js",
+		"/Users/drp/dev-environment/backend/utility-scripts/library2/transfer_compilation_from_prod.rb",
+		"/Users/drp/dev-environment/backend/public-api/config.js",
+		"/Users/drp/dev-environment/web-client/app/activity/views/activityItemView.module.js",
+		"/Users/drp/dev-environment/backend/statistics-service/lib/statistics_service/repositories/platform_usage_repository_queries.rb",
+		"/Users/drp/dev-environment/web-client/package.json",
+		"/Users/drp/dev-environment/web-client/app/activity/views/widgetSelector2ActivityItemsListView.module.js",
+		"/Users/drp/dev-environment/web-client/app/subject/stores/subjectStore2.module.js",
+		"/Users/drp/dev-environment/backend/poll-service/lib/poll_service/apis/poll_instance_api.rb",
+		"/Users/drp/dev-environment/bin/command.rake.rb",
+		"/Users/drp/dev-environment/web-client/app/institutionSubjects/components/ArchivedSubjectsLinkController.module.js",
+		"/Users/drp/dev-environment/backend/institution-service/lib/institution_service/apis/worksheet_item_api.rb",
+		"/Users/drp/dev-environment/documentation/tkt/tkt.rb",
+		"/Users/drp/dev-environment/web-client/app/internalAdmin/components/institution/InstitutionFullInfoController.module.js",
+		"/Users/drp/dev-environment/backend/institution-service/interface/services/subject_role.proto",
+		"/Users/drp/dev-environment/backend/institution-service/interface/notifications/subject.proto",
+		"/Users/drp/dev-environment/backend/institution-service/interface/services/subject.proto",
+		"/Users/drp/dev-environment/backend/lib-stile-ruby/lib/stile/capabilities.rb",
+		"/Users/drp/dev-environment/web-client/app/widgetMediaFrame/views/mediaFrameItemDetailsView.module.js",
+		"/Users/drp/dev-environment/web-client/app/widgetIFrame/libs/iFrameAPI.module.js",
+		"/Users/drp/dev-environment/docker-compose.yml",
+		"/Users/drp/dev-environment/web-client/app/institutionSubjects/views/institutionSubjectsView.module.js",
+		"/Users/drp/dev-environment/backend/institution-service/lib/institution_service/apis/subject_role_api.rb",
+		"/Users/drp/dev-environment/backend/public-api/data/superAdminCapabilitiesConfig.yml",
+		"/Users/drp/dev-environment/backend/orc-service/cronjobs/run_slow_auditors.rb",
+		"/Users/drp/dev-environment/operations/README.md",
+		"/Users/drp/dev-environment/backend/institution-service/lib/institution_service/apis/institution_api.rb",
+		"/Users/drp/dev-environment/backend/sturdy-chainsaw/sturdy_chainsaw/rake_tasks.rb",
+		"/Users/drp/dev-environment/web-client/app/planSubscription/components/planSubscriptionStatus.module.js",
+		"/Users/drp/dev-environment/web-client/app/billing/components/billingDash.module.js",
+		"/Users/drp/dev-environment/backend/chat-service/lib/chat_service/apis/chat_api.rb",
+		"/Users/drp/dev-environment/backend/public-api-test/spec/api/sse_spec.rb",
+		"/Users/drp/.bash_aliases",
+		"/Users/drp/dev-environment/operations/tools/bin/each_instance",
+		"/Users/drp/dev-environment/backend/public-api-test/spec/api/deferred_spec.rb",
+		"/Users/drp/dev-environment/backend/public-api-test/spec/support/http.rb",
+		"/Users/drp/dev-environment/web-client/app/plan/i18n/en/plan.json",
+		"/Users/drp/dev-environment/web-client/app/uiKit/button/index.module.js",
+		"/Users/drp/dev-environment/backend/plan-service/lib/plan_service/apis/plan_api.rb",
+		"/Users/drp/dev-environment/web-client/app/planSubscription/components/planSubscriptionDetails.module.js",
+		"/Users/drp/dev-environment/web-client/app/plan/components/planDescription.module.js",
+		"/Users/drp/dev-environment/web-client/app/uiKit/button/InlineTextButton.module.js",
+		"/Users/drp/dev-environment/backend/onboarding-service/lib/onboarding_service/apis/signup_api.rb",
+		"/Users/drp/dev-environment/web-client/app/usageRestriction/libs/prefilledSupportAPI.module.js",
+		"/Users/drp/dev-environment/web-client/app/core/libs/sync.module.js",
+		"/Users/drp/dev-environment/web-client/app/usageRestriction/templates/libraryUpsellDialog.iw.hbs",
+		"/Users/drp/dev-environment/web-client/app/subjectMob/components/featureLockedTeachersView.module.js",
+		"/Users/drp/dev-environment/web-client/app/internalAdmin/components/AddInstructorToSubject.module.js",
+		"/Users/drp/dev-environment/web-client/app/subjectMob/views/peopleView.module.js",
+		"/Users/drp/dev-environment/web-client/app/core/components/Loading.module.js",
+		"/Users/drp/dev-environment/web-client/app/internalAdmin/components/institution/InstitutionFullInfo.module.js",
+		"/Users/drp/dev-environment/web-client/app/internalAdmin/components/AlternatingList.module.js",
+		"/Users/drp/dev-environment/backend/auth-service/lib/auth_service/apis/zendesk_api.rb",
+		"/Users/drp/dev-environment/backend/lib-stile-ruby/lib/stile/redis_cache/distributed_connection.rb",
+		"/Users/drp/dev-environment/leaderboard/webpack.config.js",
+		"/Users/drp/dev-environment/web-client/webpack.config.js",
+		"/Users/drp/dev-environment/web-client/webpack/vendor.config.js",
+		"/Users/drp/dev-environment/web-client/app/bootstrap/app.module.js",
+		"/Users/drp/dev-environment/web-client/app/bootstrap/stile-vendor-deps.module.js",
+		"/Users/drp/dev-environment/web-client/app/fluxCondenser/tests/index.spec.js",
+		"/Users/drp/dev-environment/backend/auth-service/lib/auth_service/apis/office_365_api.rb",
+		"/Users/drp/dev-environment/backend/institution-service/interface/services/institution_role.proto",
+		"/Users/drp/dev-environment/backend/utility-scripts/cosmos.json",
+		"/Users/drp/dev-environment/operations/cfn/userdata/ssh_groups.plus",
+		"/Users/drp/dev-environment/web-client/app/uiKit/layoutBar/LayoutBar.module.js",
+		"/Users/drp/dev-environment/web-client/app/uiKit/input/Select.module.js",
+		"/Users/drp/dev-environment/web-client/app/uiKit/input/MultiSelect.module.js",
+		"/Users/drp/dev-environment/web-client/app/legacy/css/global/_site.scss"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"app/*",
+			"*.rb",
+			"app/*",
+			"*.rb,-*spec.rb",
+			"*.rb",
+			"app/*",
+			"*.rb",
+			"app/*.rb",
+			"app/*",
+			"*.scss",
+			"*.rb",
+			"app/*",
+			"*.rb",
+			"*.sql",
+			"*.rb",
+			"app/*",
+			"operations/*",
+			"app/*",
+			"app/*store.mo",
+			"app/*",
+			"public-api-test/*",
+			"public-api-test/",
+			"app/*",
+			"*service.rb",
+			"*.rb",
+			"app/*",
+			"*.rb",
+			"*.plus",
+			"*.rb",
+			"library2-service/spec/*",
+			"public-api/*",
+			"app/*.json",
+			"*.rb",
+			"statistics-service/*.rb",
+			"*.rb",
+			"app/*",
+			"*.rb",
+			"*",
+			"*.rb",
+			"app/*",
+			"*.rb",
+			"*",
+			"*.rb",
+			"app/*",
+			"*.rb",
+			"app/*.scss",
+			"app/*",
+			"*.rb",
+			"video-service/*.rb",
+			"vidoe-service/*.rb",
+			"*.rb",
+			"public-api-test/*.rb",
+			"*.rb",
+			"app/*.js",
+			"*.rb",
+			"chat-service/*.rb",
+			"*.rb",
+			"app/*.js",
+			"*.rb",
+			"app/*",
+			"*.rb",
+			"*.proto",
+			"auth-service/*.rb",
+			"*.rb",
+			"app/*",
+			"*.rb",
+			"app/*",
+			"*.rb",
+			"app/*.js",
+			"app/*",
+			"app/*.js",
+			"*.js",
+			"*.cssm",
+			"app/*,-*.spec.js",
+			"app/*",
+			"*.rb",
+			"app/*",
+			"*.rb",
+			"*",
+			"operations/*",
+			"app/*",
+			"*.rb",
+			"app/*",
+			"*.rb",
+			"app/*",
+			"*.rb",
+			"*.tsx",
+			"*.rb",
+			"",
+			"app/*",
+			"backend/*.rb",
+			"app/*.js",
+			"backend/*.rb",
+			"*.rb",
+			"public-api/*.js",
+			"public-api/(.js",
+			"*.js",
+			"*.rb",
+			"app/*.js",
+			"*.rb",
+			"app/*.js",
+			"app/*",
+			"*.js",
+			"*.rb",
+			"*.js",
+			"*.rb",
+			"app/*",
+			"*.rb",
+			"*.proto",
+			"*.sql",
+			"app/*",
+			"*.rb",
+			"app/*",
+			"*.rb",
+			"*",
+			"app/*",
+			"*.rb",
+			"app/*.js",
+			"app/*",
+			"*.rb",
+			"test.sh",
+			"*.rb",
+			"app/*",
+			"*.rb",
+			"app/*",
+			"*.rb",
+			"fluxCondenser/*",
+			"*repository.rb"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"prevNext__region",
+			"<MicrosoftLoginButton",
+			"MicrosoftLoginButton",
+			"FormEvent",
+			"<MicrosoftLoginButton",
+			"<gate",
+			"JSON.parse(`curl",
+			"au-",
+			"\n",
+			"| au-",
+			"au-",
+			"sderobillard",
+			"rob",
+			"stepha",
+			"sro",
+			"sder",
+			"conditionalRequired",
+			"StripeErrorHandler",
+			" -",
+			"service.rescue_from",
+			"rescue_from",
+			"thread.new",
+			".configure_service",
+			"CorrelatedThread.new",
+			"on_error_inside_em",
+			"attach_error_handlers",
+			"instrumentation/amqp",
+			"newrel",
+			".detect!",
+			"newrelic_rpm",
+			"DependencyDetection",
+			"with_rescue_handlers",
+			"tag",
+			"create_acl_and_groups",
+			"create",
+			"tag",
+			"service.rescue_from",
+			".rescue_from",
+			"service.rescue_from",
+			"fatalerror",
+			"with_rescue_handlers",
+			"@rescue_handlers",
+			"fataler",
+			"_stalePrimaryKeys",
+			"isStaleByPrimaryKey",
+			"isComplete",
+			"isStale",
+			"ensurefet",
+			"_subscriptions",
+			"_listenToWorker",
+			"customget",
+			"_observers",
+			"internalRecordSet",
+			"_observers",
+			"_observer",
+			"_observedKeys",
+			"listento",
+			"emitPartialChange",
+			"markAsComplete",
+			"observe({",
+			"_changedPartialDataBeforeThisEmit",
+			".observers.",
+			".obser",
+			"fieldSerializers",
+			"_makeEmptyInternalBaseRecord",
+			"\n-",
+			"control",
+			"resolvedValidTeacherLicenses",
+			"observe",
+			"observe({",
+			"debounceed",
+			"_debounceedUpdateScoreboard",
+			"terraformingHighscore",
+			"__scoreboardUpdateIntervalCb",
+			"_iFrameBus",
+			"_ensureRecord",
+			"_events",
+			"(key)",
+			"key",
+			"internalRecord",
+			"makeEmptyInternalRecord",
+			"makeEmptyInternalRecordSet",
+			"set",
+			"intersection",
+			"setintersection",
+			"_emit",
+			"_changedDataToProcessInNextEmit",
+			"_changedDataBeforeThisEmit",
+			"internalRecordSet",
+			"SYSLOG_ADDR_HOST",
+			"slb:",
+			"rsys",
+			"slb:",
+			"slb",
+			"log",
+			"_normalizeField",
+			"_forEachWithMapData",
+			"invalidate",
+			"this.indices",
+			"this.indices.",
+			"_events",
+			"emitPartialChange",
+			"_changedPartialDataToProcessInNextEmit",
+			"_changedPartialDataBeforeThisEmit",
+			"store",
+			".listenTo",
+			"listenTo",
+			"_onSSEUpdateRequired",
+			"sseFetch",
+			"listento",
+			"observe",
+			"obser",
+			"_primaryIndexClass",
+			"data-model-id",
+			".notice",
+			"update_current_tolkien_uuid_by_principal",
+			"upsert_sub",
+			".TokenInvalidationSoon",
+			"TokenInvalidationSoon",
+			"validate_oneof_question_frame_answer_field",
+			"questionframe",
+			"deepfree",
+			"itemViewOptions",
+			"buildItemView",
+			"work",
+			"_getDueDate",
+			"mob",
+			"req."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"require",
+			"bundle exec rspec --format RspecJunitFormatter --out $TEST_REPORTS/rspec.xml --format html --out $TEST_REPORTS/rspec.html --format documentation \"$@\"",
+			"scriptutils/em",
+			"\\1",
+			"::Process.clock_gettime(::Process::CLOCK_MONOTONIC)",
+			"\\n",
+			"has_compiled_activity",
+			"require_relative 'config'",
+			"require 'scriptutils/\\2'",
+			"'scriptutils/\\2'",
+			"'\\1scriptutils/\\2'",
+			"npm test \"$@\"",
+			"bundle exec rspec --format documentation \"$@\"",
+			"",
+			"bundle exec rspec --format documentation $*\nmkdir -p \\1",
+			"rm -rf \\1\nmkdir -p \\1",
+			"\"#{s}:\\1\"",
+			"localgems",
+			"exception",
+			"stile.services.message",
+			"\\1- stile.amqp.message\\1- stile.services.message.delay",
+			"\\1- stile.amqp.message\\n\\1- stile.services.message.delay",
+			"Orc",
+			"orc",
+			"key\\1 =>",
+			"key\\1",
+			"\"key\\1\"",
+			"RedisCache::Client.new",
+			"gem 'redis', '3.3.3'",
+			"ContentPurchase::CreateUncommittedRequest",
+			"Condenser",
+			"\\1\"environment\": {\\1    \"SYNC_STDOUT\": \"true\",\\n",
+			"\\1\"environment\": {\\n\\1    \"SYNC_STDOUT\": \"true\",\\n",
+			"\\1\"SYNC_STDOUT\": \"true\",\\n",
+			"\\1\"environment\": {\\n\\1    \"SYNC_STDOUT\": \"true\",",
+			"\\1\"environment\": {\\n\\1\"SYNC_STDOUT\": \"true\",",
+			"\\1\"environment\": {\\n\"SYNC_STDOUT\": \"true\",",
+			"\"SYNC_STDOUT\": \"true\",",
+			"(\\s*)\"SYNC_STDOUT\": \"true\",\\n",
+			"\\1\"environment\": {\\n\\1    \"SYNC_STDOUT\": \"true\",\\n",
+			" ",
+			"configatron.redis.port = (ENV['REDIS_PORT'] || 6379).to_i",
+			"docker.au.s522.net/stile-redis",
+			"is_group_member?(\\1principal:",
+			" + ",
+			"index_by_user",
+			"do_not_send_email",
+			"SubjectRole::DeleteInstructorRequest",
+			"v3/persons2/",
+			"proto2hash(create_req.year_levels).fetch('values')",
+			"cache_update_locks_by_key",
+			"cache_updates_to_do",
+			"cache_update_locks_by_result_key",
+			"",
+			"stringify_expected_adjacency_map",
+			"existence",
+			"clients[:db]",
+			"api",
+			"NoAuthenticationResult",
+			"require",
+			"",
+			"tooltip",
+			"existence",
+			"tabIndex={ \\1 }",
+			"myWidgetStore",
+			"useInitialData",
+			"include_publisher_users",
+			"result.get_responses.map { |get_response| get_response.publisher }.",
+			"result.get_responses.map { |get_response| get_response.publisher }",
+			"expect(result.get_responses).to have",
+			"include_my_publisher_user",
+			"resolution metadata",
+			"update_resolution_metadata_and_propogate_duration_estimate_update",
+			"update_metadata_and_propogate_duration_estimate_update",
+			"EnsureDenormalisedResolutionMetadataRequest",
+			"ensure_denormalised_resolution_metadata",
+			"apiStub",
+			"I18N",
+			"i18n.t",
+			"require('i18n/legacy')",
+			"getRenderedI18nText(",
+			"getRenderedI18nText",
+			"I18N",
+			"stripHtml",
+			"_cleanedObjectsMappedToFullyQualifiedNames",
+			"separately",
+			"previous",
+			"indices",
+			"record",
+			"keyName",
+			"isSparse",
+			"isUnique",
+			"_indexRecords",
+			"preExistingDocument",
+			"addContentToMap",
+			"MapPolyfill",
+			".set",
+			"mySet",
+			"this.map",
+			"remove_unreliable_fields",
+			"_renderAdminButton",
+			"_renderShowAdminButton",
+			"remove_unreliable_data",
+			"compilation.total_estimated_duration",
+			"compilation.has_total_estimated_duration?",
+			"compilation.total_estimated_duration",
+			"compilation.estimated_duration",
+			"compilation.has_estimated_duration",
+			"compilation_version_without_content_hash2proto",
+			"compiled_activities_hash2proto",
+			"propogate_duration_estimate_update",
+			"propogate_duration_estimate_updates",
+			"find_ancestor_uuids",
+			"availability",
+			"compute_total_estimated_duration",
+			"namePlaintext",
+			"\"name_plaintext\": \"",
+			"expect(get_possibly_unreleased_result.latest_version_content.compiled_activities.preferred_compiled_activity_uuid_for_student_demo).to eql(get_possibly_unreleased_result.latest_version_content.compiled_activities.compiled_activities[-1].uuid)",
+			").to be",
+			"compiled_activity",
+			"Descendant",
+			"descendant",
+			"estimated_duration",
+			"is_purchasable",
+			"is_published",
+			"Stile::IndifferentAccessHash.new new_theme_color_light",
+			"Stile::IndifferentAccessHash.new new_theme_color_dark",
+			"new_theme_color_dark"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/drp/ar-closing-temperature-calculation"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4618,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								177
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python 3/Python3.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"reportsrb",
+				"backend/statistics-service/lib/statistics_service/apis/data_warehouse_reports_api.rb"
+			],
+			[
+				"libcontusage",
+				"web-client/app/internalAdmin/components/reportForms/LibraryContentUsage.module.js"
+			],
+			[
+				"actnavcont",
+				"web-client/app/activity/components/ActivityNavController.module.js"
+			],
+			[
+				"instroleapi",
+				"backend/institution-service/lib/institution_service/apis/institution_role_api.rb"
+			],
+			[
+				"",
+				"web-client/app/uiKit/button/RawButton.module.js"
+			],
+			[
+				"condre",
+				"web-client/app/core/propTypes/conditionalRequired.module.js"
+			],
+			[
+				"rawbutton",
+				"web-client/app/uiKit/button/RawButton.module.js"
+			],
+			[
+				"uibuttn",
+				"web-client/app/uiKit/button/_UIButton.module.js"
+			],
+			[
+				"microsoftloginbutton",
+				"web-client/app/uiKit/button/MicrosoftLoginButton.module.js"
+			],
+			[
+				"storein",
+				"web-client/app/fluxCondenser/libs/storeIndex.module.js"
+			],
+			[
+				"fluxstore",
+				"web-client/app/fluxCondenser/libs/store.module.js"
+			],
+			[
+				"webfeature",
+				"operations/cfn/shared/webclient_features.plus"
+			],
+			[
+				"instrolestore",
+				"web-client/app/institution/stores/institutionRoleStore.module.js"
+			],
+			[
+				"componentprevnext",
+				"web-client/app/activity/components/PrevNextButton.module.js"
+			],
+			[
+				"prevnext",
+				"web-client/app/activity/views/prevNextView.module.js"
+			],
+			[
+				"schedul",
+				"backend/lib-stile-ruby/lib/stile/scheduler.rb"
+			],
+			[
+				"threadpool",
+				"backend/lib-stile-ruby/lib/stile/threadpool.rb"
+			],
+			[
+				"bubbleheader",
+				"web-client/app/uiKit/bubbleHeader/BubbleHeaderTitle.module.js"
+			],
+			[
+				"condition",
+				"web-client/app/core/propTypes/conditionalRequired.module.js"
+			],
+			[
+				"addinstsu",
+				"web-client/app/internalAdmin/components/AddInstructorToSubject.module.js"
+			],
+			[
+				"findteach",
+				"web-client/app/internalAdmin/components/content/FindTeacherLicense.module.js"
+			],
+			[
+				"servicespec",
+				"backend/lib-stile-ruby/spec/stile/amqp/service_spec.rb"
+			],
+			[
+				"servrb",
+				"backend/lib-stile-ruby/lib/stile/amqp/service.rb"
+			],
+			[
+				"lsrspechelp",
+				"backend/lib-stile-ruby/spec/spec_helper.rb"
+			],
+			[
+				"threadspec",
+				"backend/lib-stile-ruby/spec/stile/threadpool_spec.rb"
+			],
+			[
+				"storeindex",
+				"web-client/app/fluxCondenser/libs/storeIndex.module.js"
+			],
+			[
+				"paymethapi",
+				"backend/payment-service/lib/payment_service/apis/payment_method_api.rb"
+			],
+			[
+				"instpbapi",
+				"backend/institution-service/lib/institution_service/apis/institution_pb_api.rb"
+			],
+			[
+				"sseconnect",
+				"web-client/app/serverSentEvents/connection.module.js"
+			],
+			[
+				"clienteventapi",
+				"backend/client-event-service/lib/client_event_service/apis/client_event_api.rb"
+			],
+			[
+				"encodgem",
+				"backend/encoding-service/Gemfile"
+			],
+			[
+				"uploadservrb",
+				"backend/upload-service/lib/upload_service.rb"
+			],
+			[
+				"uploadapispec",
+				"backend/upload-service/spec/api/upload_api_spec.rb"
+			],
+			[
+				"excephandl",
+				"backend/lib-stile-ruby/lib/stile/exception_handling.rb"
+			],
+			[
+				"threadpoolspec",
+				"backend/lib-stile-ruby/spec/stile/threadpool_spec.rb"
+			],
+			[
+				"threadpoo",
+				"backend/lib-stile-ruby/lib/stile/threadpool.rb"
+			],
+			[
+				"metricsrb",
+				"backend/lib-stile-ruby/lib/stile/metrics.rb"
+			],
+			[
+				"orcserv",
+				"backend/orc-service/lib/orc_service.rb"
+			],
+			[
+				"mongo2",
+				"backend/lib-stile-ruby/lib/stile/mongo2.rb"
+			],
+			[
+				"mongorb",
+				"wiris/localgems/lib-stile-ruby/lib/stile/mongo.rb"
+			],
+			[
+				"lib2serv",
+				"backend/library2-service/lib/library2_service.rb"
+			],
+			[
+				"sequel",
+				"backend/lib-stile-ruby/lib/stile/sequel.rb"
+			],
+			[
+				"corrthread",
+				"backend/lib-stile-ruby/lib/stile/correlated_thread.rb"
+			],
+			[
+				"upserv",
+				"backend/upload-service/lib/upload_service.rb"
+			],
+			[
+				"schedu",
+				"backend/lib-stile-ruby/lib/stile/scheduler.rb"
+			],
+			[
+				"thre",
+				"backend/lib-stile-ruby/lib/stile/threadpool.rb"
+			],
+			[
+				"payservrb",
+				"backend/payment-service/lib/payment_service.rb"
+			],
+			[
+				"stileservice",
+				"backend/lib-stile-ruby/lib/stile/amqp/service.rb"
+			],
+			[
+				"encodingserv",
+				"backend/encoding-service/lib/encoding_service.rb"
+			],
+			[
+				"stilerb",
+				"backend/lib-stile-ruby/lib/stile.rb"
+			],
+			[
+				"newreicrb",
+				"backend/lib-stile-ruby/lib/stile/newrelic.rb"
+			],
+			[
+				"sequelrb",
+				"backend/lib-stile-ruby/lib/stile/sequel.rb"
+			],
+			[
+				"comgoconn",
+				"backend/lib-stile-ruby/lib/stile/ext/mongo_connection_pool.rb"
+			],
+			[
+				"thread",
+				"backend/lib-stile-ruby/lib/stile/threadpool.rb"
+			],
+			[
+				"newrelicrb",
+				"backend/lib-stile-ruby/lib/stile/newrelic/instrumentation/amqp.rb"
+			],
+			[
+				"except",
+				"backend/lib-stile-ruby/lib/stile/exceptions.rb"
+			],
+			[
+				"processrb",
+				"backend/lib-stile-ruby/lib/stile/process.rb"
+			],
+			[
+				"servicerb",
+				"backend/lib-stile-ruby/lib/stile/amqp/service.rb"
+			],
+			[
+				"authdirect",
+				"backend/lib-stile-ruby/lib/stile/auth_directory.rb"
+			],
+			[
+				"instaudit",
+				"backend/institution-service/lib/institution_service/auditors/institution_auditor.rb"
+			],
+			[
+				"subjapi",
+				"backend/institution-service/lib/institution_service/apis/subject_api.rb"
+			],
+			[
+				"subjpbapi",
+				"backend/institution-service/lib/institution_service/apis/subject_pb_api.rb"
+			],
+			[
+				"subjaudit",
+				"backend/institution-service/lib/institution_service/auditors/subject_auditor.rb"
+			],
+			[
+				"lib2ser",
+				"backend/library2-service/lib/library2_service.rb"
+			],
+			[
+				"lsrsequel",
+				"backend/lib-stile-ruby/lib/stile/sequel.rb"
+			],
+			[
+				"stileservicerb",
+				"backend/lib-stile-ruby/lib/stile/amqp/service.rb"
+			],
+			[
+				"process",
+				"backend/lib-stile-ruby/lib/stile/process.rb"
+			],
+			[
+				"orcser",
+				"backend/orc-service/lib/orc_service.rb"
+			],
+			[
+				"instituionservice",
+				"backend/institution-service/lib/institution_service.rb"
+			],
+			[
+				"orcservrb",
+				"backend/orc-service/lib/orc_service.rb"
+			],
+			[
+				"scheduler",
+				"backend/lib-stile-ruby/lib/stile/scheduler.rb"
+			],
+			[
+				"scoreboatore",
+				"web-client/app/widgetQuestionFrame/stores/TerraformerSimulationMobScoreboardStore.module.js"
+			],
+			[
+				"sseconnec",
+				"web-client/app/serverSentEvents/connection.module.js"
+			],
+			[
+				"notifistorestore",
+				"web-client/app/notifications/stores/notificationsStore.module.js"
+			],
+			[
+				"makeuri",
+				"web-client/app/fluxCondenser/libs/makeRestCrudApi.module.js"
+			],
+			[
+				"subjstore",
+				"web-client/app/subject/stores/subjectStore2.module.js"
+			],
+			[
+				"compilpagecon",
+				"web-client/app/library2Compilation/components/CompilationPageController.module.js"
+			],
+			[
+				"pubpagecontrolll",
+				"web-client/app/library2Publisher/components/PublisherPageController.module.js"
+			],
+			[
+				"storemode",
+				"web-client/app/fluxCondenser/libs/store.module.js"
+			],
+			[
+				"storemod",
+				"web-client/app/react-stuff/store.module.js"
+			],
+			[
+				"makedepe",
+				"web-client/app/fluxCondenser/libs/makeDependency.module.js"
+			],
+			[
+				"librarroutesindex",
+				"web-client/app/library2Admin/routes/index.module.js"
+			],
+			[
+				"strictp",
+				"web-client/app/react-stuff/mixins/strictPropsMixin.module.js"
+			],
+			[
+				"actprevcon",
+				"web-client/app/library2Compilation/components/ActivityPreviewHeaderController.module.js"
+			],
+			[
+				"cosmoscontroller",
+				"web-client/app/library2CosmosCompilation/components/CosmosCompilationPageController.module.js"
+			],
+			[
+				"proptyinst",
+				"web-client/app/institution/propTypes/institution.module.js"
+			],
+			[
+				"dev",
+				"web-client/server/dev_library.env"
+			],
+			[
+				"pubpagecontroll",
+				"web-client/app/library2Publisher/components/PublisherPageController.module.js"
+			],
+			[
+				"dockercompo",
+				"docker-compose.yml"
+			],
+			[
+				"akedepe",
+				"web-client/app/fluxCondenser/libs/makeDependency.module.js"
+			],
+			[
+				"operwebfeatre",
+				"operations/cfn/shared/webclient_features.plus"
+			],
+			[
+				"questionframede",
+				"web-client/app/widgetQuestionFrame/views/questionFrameItemDetailsView.module.js"
+			],
+			[
+				"composeyml",
+				"docker-compose.yml"
+			],
+			[
+				"cockercompo",
+				"operations/docker/multi-web-client/docker-compose.yml"
+			],
+			[
+				"stilepubconf",
+				"slb/config/stilepublic.conf.template"
+			],
+			[
+				"logstashconf",
+				"operations/docker/stile-logstash5/logstash.conf.template"
+			],
+			[
+				"logstaha",
+				"operations/docker/stile-logstash/logstash.haproxy.conf.erb"
+			],
+			[
+				"haproxy",
+				"slb/haproxy_monitor.rb"
+			],
+			[
+				"fluxstorein",
+				"web-client/app/fluxCondenser/libs/storeIndex.module.js"
+			],
+			[
+				"endmanager",
+				"web-client/app/serverSentEvents/endpointManager.module.js"
+			],
+			[
+				"notifistore",
+				"web-client/app/notifications/stores/notificationsStore.module.js"
+			],
+			[
+				"lessonitemstore",
+				"web-client/app/activityPrint/stores/lessonItemStore.module.js"
+			],
+			[
+				"makede",
+				"web-client/app/fluxCondenser/libs/makeDependency.module.js"
+			],
+			[
+				"notificoll",
+				"web-client/app/notifications/collections/notificationCollection.module.js"
+			],
+			[
+				"debounce",
+				"web-client/app/core/libs/debouncePromise.module.js"
+			],
+			[
+				"simscoreboar",
+				"backend/institution-service/lib/institution_service/apis/terraformer_simulation_mob_scoreboard_api.rb"
+			],
+			[
+				"scoreboardrb",
+				"documentation/specifications/simulation_scoreboard/simulation_scoreboard_td.md"
+			],
+			[
+				"signupuserrepo",
+				"backend/onboarding-service/lib/onboarding_service/repositories/signup_user_repository.rb"
+			],
+			[
+				"mailinglistmanager",
+				"backend/onboarding-service/lib/onboarding_service/mailing_list_manager.rb"
+			],
+			[
+				"eventtolproto",
+				"backend/auth-service/interface/events/tolkien.proto"
+			],
+			[
+				"workitemrb",
+				"backend/institution-service/lib/institution_service/models/sequel/work_item.rb"
+			],
+			[
+				"rpcrb",
+				"backend/auth-service/lib/auth_service/rpc.rb"
+			],
+			[
+				"manual",
+				"operations/tools/db_failover/manual_failover.rb"
+			],
+			[
+				"widget2act",
+				"web-client/app/activity/views/widgetSelector2ActivityItemsListView.module.js"
+			],
+			[
+				"workmodel",
+				"web-client/app/work/models/workModel.js"
+			],
+			[
+				"activityview",
+				"web-client/app/activity/views/activityView.module.js"
+			],
+			[
+				"collabpolljs",
+				"web-client/app/widgetCollabPoll/views/collabPollItemDetailsView.module.js"
+			],
+			[
+				"staffres",
+				"backend/institution-service/lib/institution_service/resources/institution_staff_resource.rb"
+			],
+			[
+				"instroleap",
+				"backend/institution-service/lib/institution_service/apis/institution_role_api.rb"
+			],
+			[
+				"authdir",
+				"backend/lib-stile-ruby/lib/stile/auth_directory.rb"
+			],
+			[
+				"adminapi",
+				"backend/admin-service/lib/admin_service/apis/internal_admin_api.rb"
+			],
+			[
+				"groupresou",
+				"backend/institution-service/lib/institution_service/resources/group_resource.rb"
+			],
+			[
+				"email2spec",
+				"backend/email2-service/spec/email2_service/apis/mailing_list_api_spec.rb"
+			],
+			[
+				"mailinglistmana",
+				"backend/onboarding-service/lib/onboarding_service/mailing_list_manager.rb"
+			],
+			[
+				"signupapi",
+				"backend/onboarding-service/lib/onboarding_service/apis/signup_api.rb"
+			],
+			[
+				"maillist",
+				"backend/email2-service/interface/services/mailing_list.proto"
+			],
+			[
+				"subjheaderscss",
+				"web-client/app/subjectHeader/css/_subjectHeader.scss"
+			],
+			[
+				"memshimcah",
+				"backend/lib-stile-ruby/lib/stile/redis_memcache_shim_cache.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 736.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 447.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
