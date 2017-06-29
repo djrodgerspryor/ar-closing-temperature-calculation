@@ -9,27 +9,36 @@ COOLING_RATE_POINT_ESTIMATE = 70 # °C/Ma
 DOMAIN_SIZE_RANGE = 120, 250 # µM
 COOLING_RATE_RANGE = 35, 150 # (°C difference)/Ma
 
-
+# Given an iterative function and an initial value, keep generating new estimates until the values
+# converge to within the given error threshold.
 def converge(initial, function, error_threshold_fraction=0.0001, max_iterations=1000, log=False):
+    # Start at the given initial value
     current = initial
 
     i = 0
     while True:
         i += 1
 
+        # Keep-track of what the previous estimate was
         previous = current
+
+        # Generate the next estimate
         current = function(current)
 
-        error_fraction = fabs(current - previous) / ((fabs(current) + fabs(previous)) / 2)
+        # Work out how big the change was as a fraction of the current value
+        error_fraction = fabs(current - previous) / fabs(current)
 
-        # If we've converged
+        # If we've converged (ie. if the change was sufficiently small)
         if error_fraction < error_threshold_fraction:
             # Then we can stop
             break
 
-        # Should only happen if the function is accidentally non-convergent
+        # If we've been going for a long time without stopping
         if i >= max_iterations:
-            raise Exception("Unable to converge after %d iterations" % (i,))
+            # Should only happen if the function is accidentally non-convergent because we nuff-nuffed some numbers
+            raise Exception("Unable to converge after %d iterations: this function probably doesn't converge at all!" % (i,))
+
+    # We've found a result: yay!
 
     if log:
         # Log how long convergence took
@@ -54,8 +63,10 @@ def Tc_next(Tc_prev, a, dT_on_dt_at_Tc):
 # Returns closing temperature in kelvin
 def Tc(a, dT_on_dt_at_Tc, Tc_init=450):
     return converge(
-        Tc_init,
-        lambda Tc_prev: Tc_next(Tc_prev, a, dT_on_dt_at_Tc),
+        initial=Tc_init,
+
+        # Pass in a function which accepts an estimate of Tc and produces the next estimate in the iteration
+        function=lambda Tc_prev: Tc_next(Tc_prev, a, dT_on_dt_at_Tc),
 
         # Set this to True to see how long it takes to converge
         log=False,
@@ -66,10 +77,12 @@ def Tc(a, dT_on_dt_at_Tc, Tc_init=450):
 
 print(
     "Point estimate: {:.1f}°C".format(
-        K2C(Tc(
-            a=DOMAIN_SIZE_POINT_ESTIMATE,
-            dT_on_dt_at_Tc=COOLING_RATE_POINT_ESTIMATE
-        ))
+        K2C(
+            Tc(
+                a=DOMAIN_SIZE_POINT_ESTIMATE,
+                dT_on_dt_at_Tc=COOLING_RATE_POINT_ESTIMATE
+            )
+        )
     )
 )
 
@@ -81,7 +94,12 @@ a_values = range(*DOMAIN_SIZE_RANGE)
 Tc_as_a_function_of_a = []
 for a in a_values:
     Tc_as_a_function_of_a.append(
-        K2C(Tc(a, COOLING_RATE_POINT_ESTIMATE))
+        K2C(
+            Tc(
+                a=a,
+                dT_on_dt_at_Tc=COOLING_RATE_POINT_ESTIMATE
+            )
+        )
     )
 
 plot_1d(
@@ -101,7 +119,12 @@ cooling_rate_values = range(35, 150)
 Tc_as_a_function_of_cooling_rate = []
 for cooling_rate in cooling_rate_values:
     Tc_as_a_function_of_cooling_rate.append(
-        K2C(Tc(DOMAIN_SIZE_POINT_ESTIMATE, cooling_rate))
+        K2C(
+            Tc(
+                a=DOMAIN_SIZE_POINT_ESTIMATE,
+                dT_on_dt_at_Tc=cooling_rate
+            )
+        )
     )
 
 plot_1d(
@@ -130,7 +153,12 @@ for a in np.linspace(a_min, a_max, RESOLUTION):
 
     for cooling_rate in np.linspace(cooling_rate_min, cooling_rate_max, RESOLUTION):
         Tc_matrix[-1].append(
-            K2C(Tc(a, cooling_rate))
+            K2C(
+                Tc(
+                    a=a,
+                    dT_on_dt_at_Tc=cooling_rate
+                )
+            )
         )
 Tc_matrix = np.array(Tc_matrix)
 
