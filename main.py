@@ -39,8 +39,8 @@ def Tc(a, dT_on_dt_at_Tc, Tc_init=450, iterations=10):
 print(
     "Point estimate: {:.1f}°C".format(
         K2C(Tc(
-            DOMAIN_SIZE_POINT_ESTIMATE,
-            COOLING_RATE_POINT_ESTIMATE
+            a=DOMAIN_SIZE_POINT_ESTIMATE,
+            dT_on_dt_at_Tc=COOLING_RATE_POINT_ESTIMATE
         ))
     )
 )
