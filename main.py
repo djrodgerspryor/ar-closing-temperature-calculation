@@ -9,6 +9,22 @@ COOLING_RATE_POINT_ESTIMATE = 70 # °C/Ma
 DOMAIN_SIZE_RANGE = 120, 250 # µM
 COOLING_RATE_RANGE = 35, 150 # (°C difference)/Ma
 
+# Ideal Gas Constant
+R = 8.31446  # Joules per mole kelvin
+
+# Harrison et al 2009 for Ms at 5kbar
+E = 267776 # J/mol
+
+# ??
+A = 55
+
+# ??
+D = 6.307 * 1e22 # µM**2/Ma
+
+# Intermediate values for calculating Tc
+E_on_R = E / R
+ARD_ON_E = (A * R * D) / E
+
 # Given an iterative function and an initial value, keep generating new estimates until the values
 # converge to within the given error threshold.
 def converge(initial, function, error_threshold_fraction=0.0001, max_iterations=1000, log=False):
@@ -52,11 +68,8 @@ def K2C(k):
     return k - 273.15
 
 # Iterative formula for Tc
-E_on_R = 32206.1
 def Tc_next(Tc_prev, a, dT_on_dt_at_Tc):
-    return E_on_R / log((1.077 * 1e20) * Tc_prev**2 / (dT_on_dt_at_Tc * a**2))
-# E_on_R is based on E = 64 kcal/mol (267776 J/mol) - Harrison et al 2009
-# 1.077 * 1e20 = ARD/E, here A = 55, D = 6.307 * 1e22 µM**2/Ma - Harrison et al 2009 for Ms at 5kbar 
+    return E_on_R / log(ARD_ON_E * Tc_prev**2 / (dT_on_dt_at_Tc * a**2))
 
 # Arguments
 #   a             : diffusion domain size in µM
